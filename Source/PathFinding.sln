@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PathFinding", "PathFinding\PathFinding.vcxproj", "{DCFC1DBB-F40B-46F2-8044-F847DBF8821A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCFC1DBB-F40B-46F2-8044-F847DBF8821A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DCFC1DBB-F40B-46F2-8044-F847DBF8821A}.Debug|Win32.Build.0 = Debug|Win32
+		{DCFC1DBB-F40B-46F2-8044-F847DBF8821A}.Release|Win32.ActiveCfg = Release|Win32
+		{DCFC1DBB-F40B-46F2-8044-F847DBF8821A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
